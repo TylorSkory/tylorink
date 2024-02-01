@@ -9,7 +9,7 @@ body, html {
 }
 
 .sidebar {
-    background-image: url('your-photo.jpg'); /* Replace with your photo */
+    background-image: url('/images/me.jpg'); /* Replace with your photo */
     background-size: cover;
     color: white;
     padding: 20px;
